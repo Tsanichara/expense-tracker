@@ -1,0 +1,1 @@
+This is an expense tracker made with javascript react. Users can add items with expense amount and date. They can also filter the expenses by year and there is a chart that shows total expenses by month within each year.
