@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsanichara.github.io/expense-tracker/static/css/main.bcec8de1.css",
+    "main.js": "/tsanichara.github.io/expense-tracker/static/js/main.bf00d940.js",
+    "index.html": "/tsanichara.github.io/expense-tracker/index.html",
+    "main.bcec8de1.css.map": "/tsanichara.github.io/expense-tracker/static/css/main.bcec8de1.css.map",
+    "main.bf00d940.js.map": "/tsanichara.github.io/expense-tracker/static/js/main.bf00d940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcec8de1.css",
+    "static/js/main.bf00d940.js"
+  ]
+}
